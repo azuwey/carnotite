@@ -1,9 +1,8 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 /**
  * @author David Zarandi (Azuwey)
  */
-require("reflect-metadata");
+Object.defineProperty(exports, "__esModule", { value: true });
 var misc_1 = require("../misc");
 function EventDispatcherDecorator(target, propertyKey) {
     Object.defineProperty(target, propertyKey, {

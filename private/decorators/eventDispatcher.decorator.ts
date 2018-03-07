@@ -1,10 +1,8 @@
 /**
  * @author David Zarandi (Azuwey)
  */
-import 'reflect-metadata';
 
 import { EventDispatcher as Event } from '../misc';
-
 
 export function EventDispatcherDecorator(
 	target: Object,

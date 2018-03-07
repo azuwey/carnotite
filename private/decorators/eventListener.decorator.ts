@@ -5,7 +5,6 @@ import 'reflect-metadata';
 
 import { CONSTRUCTOR_KEY, EVENT_DISPATCHER_KEY, EventDispatcher } from '../misc';
 
-
 export function EventListenerDecorator(eventName: string) {
 	return (
 		target: Object,
