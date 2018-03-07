@@ -1,8 +1,8 @@
 {
   "name": "carnotite",
   "displayName": "Carnotite",
-  "version": "0.0.12",
-  "description": "Carnotite is Typescript decorator based, lightweight observer.",
+  "version": "0.0.14",
+  "description": "Carnotite is Typescript decorator based, lightweight native event manager.",
   "main": "dist/index.js",
   "types": "declarations/index.d.ts",
   "repository": "https://github.com/azuwey/carnotite.git",
@@ -13,7 +13,9 @@
     "typescript",
     "observer",
     "annotation",
-    "carnotite"
+    "carnotite",
+    "event",
+    "manager"
   ],
   "homepage": "https://github.com/azuwey/carnotite",
   "bugs": {

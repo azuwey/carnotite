@@ -1,5 +1,5 @@
 # Carnotite
-Carnotite is Typescript decorator based, lightweight observer.
+Carnotite is Typescript decorator based, lightweight native event manager.
 
 ### Installation with npm
 ```sh
