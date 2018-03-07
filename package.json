@@ -1,0 +1,29 @@
+{
+  "name": "carnotite",
+  "displayName": "Carnotite",
+  "version": "0.0.11",
+  "description": "Carnotite is Typescript decorator based, lightweight observer.",
+  "main": "dist/index.js",
+  "types": "declarations/index.d.ts",
+  "repository": "https://github.com/azuwey/carnotite.git",
+  "author": "Azuwey",
+  "license": "BSD-3-Clause",
+  "private": false,
+  "keywords": [
+    "typescript",
+    "observer",
+    "annotation",
+    "carnotite"
+  ],
+  "homepage": "https://github.com/azuwey/carnotite",
+  "bugs": {
+    "url": "https://github.com/azuwey/carnotite/issues"
+  },
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "devDependencies": {
+    "reflect-metadata": "^0.1.12",
+    "typescript": "^2.7.1"
+  }
+}
