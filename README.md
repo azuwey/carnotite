@@ -17,3 +17,7 @@ If you have any problem with the framework please open a new issue [here](https:
 ## Getting started tutorial [here](https://github.com/azuwey/carnotite/wiki/Getting-started)
 
 ## You can find an example project [here](https://github.com/azuwey/carnotite-example)
+
+### Please give me a star if you like it. Thank you.
+<a class="github-button" href="https://github.com/azuwey/carnotite" data-icon="octicon-star" data-show-count="true" aria-label="Star azuwey/carnotite on GitHub">Star</a>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
