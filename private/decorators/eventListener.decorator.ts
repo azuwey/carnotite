@@ -1,6 +1,7 @@
 /**
  * @author David Zarandi (Azuwey)
  */
+
 import 'reflect-metadata';
 
 import { CONSTRUCTOR_KEY, EVENT_DISPATCHER_KEY, EventDispatcher } from '../misc';

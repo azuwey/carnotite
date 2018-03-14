@@ -1,4 +1,7 @@
 "use strict";
+/**
+ * @author David Zarandi (Azuwey)
+ */
 function __export(m) {
     for (var p in m) if (!exports.hasOwnProperty(p)) exports[p] = m[p];
 }
